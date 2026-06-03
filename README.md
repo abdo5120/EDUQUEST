@@ -97,6 +97,3 @@ Flyway runs automatically on startup to apply SQL migrations from `src/main/reso
 ## 📚 Swagger / OpenAPI
 If enabled, access the UI at:
 - `/swagger-ui/index.html`
-
-## 📄 License
-Specify your license here. If you do not have one yet, add a `LICENSE` file and update this section.
